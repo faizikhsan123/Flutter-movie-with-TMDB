@@ -1,0 +1,21 @@
+name: uas_mobile
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: ^3.11.5
+
+dependencies: 
+  cupertino_icons: ^1.0.8
+  get: 4.7.3
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^6.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
